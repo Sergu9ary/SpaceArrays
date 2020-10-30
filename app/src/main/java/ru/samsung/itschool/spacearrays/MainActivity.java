@@ -1,6 +1,7 @@
 package ru.samsung.itschool.spacearrays;
 
 import android.app.Activity;
+import android.graphics.Bitmap;
 import android.os.Bundle;
 
 public class MainActivity extends Activity {
@@ -11,3 +12,4 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 	}
 }
+
